@@ -1,1 +1,1 @@
-# grundlaeggende-tkinter-udvikling
+# Grundlaeggende GUI udvikling med TKinter
