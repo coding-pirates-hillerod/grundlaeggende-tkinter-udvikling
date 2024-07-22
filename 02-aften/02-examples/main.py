@@ -2,9 +2,9 @@ from tkinter import Tk, PhotoImage, Label
 
 root = Tk()
 
-image = PhotoImage(file="./cookie.jpg")
+cookie_img = PhotoImage("./cookie.gif")
 
-img_label = Label(root, image=image)
+img_label = Label(root, image=cookie_img)
 img_label.pack()
 
 root.mainloop()
